@@ -1,0 +1,2 @@
+/state/partition1/workspace/htdocs/16s-report/data/GDD0000_16S/group/GroupName/GroupName.otutab.1/alpha/diff_alpha_diversity/chao1/CK-VS-TA.xls
+/state/partition1/workspace/htdocs/16s-report/data/GDD0000_16S/group/GroupName/GroupName.otutab.1/alpha/diff_alpha_diversity/chao1/TB-VS-TC.xls

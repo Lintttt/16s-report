@@ -1,0 +1,28 @@
+
+.dropdown {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 250px;
+  background-color: #f7f7f7;
+  font-family: "Montserrat", sans-serif;
+  padding-top: 20px;
+  font-size: 12px; }
+  .dropdown li {
+    padding: 0 10px; }
+    .dropdown li.selected {
+      background-color: #f2f2f2; }
+    .dropdown li a {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      text-decoration: none;
+      text-transform: uppercase;
+      color: black; }
+  .dropdown li > ul li {
+    padding: 0 20px; }
+    .dropdown li > ul li a {
+      color: gray; }
+    .dropdown li > ul li > ul li {
+      padding: 10px 30px; }

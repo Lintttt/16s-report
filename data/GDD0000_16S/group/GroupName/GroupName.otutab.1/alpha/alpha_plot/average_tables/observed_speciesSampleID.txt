@@ -1,0 +1,52 @@
+# observed_species.txt
+# SampleID
+xaxis: 10.0	5010.0	10010.0	15010.0	20010.0	25010.0	30010.0	35010.0	40010.0	45010.0	50010.0	55010.0	60010.0	65010.0	70010.0	75010.0	80010.0	85010.0	
+xmax: 90010.0
+>> TC-1
+color #6b440b
+series 9.9	1321.4	1882.2	2271.9	2590.8	2827.0	3056.8	3229.0	3410.6	3549.6	3714.0	3834.6	3945.8	4064.2	4164.6	4250.3	4346.7	4429.3	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+>> TC-2
+color #808080
+series 9.7	1187.9	1697.0	2045.0	2317.9	2531.2	2731.0	2923.5	3067.5	3188.3	3323.9	3428.1	3547.0	3627.2	3731.9	3810.1	3883.3	3960.5	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+>> TC-3
+color #02f40e
+series 9.7	1416.8	2037.5	2454.0	2784.6	3047.4	3299.9	3481.6	3662.9	3822.7	3978.7	4108.8	4225.0	4335.8	4444.3	4537.8	4628.1	4722.7	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+>> TB-1
+color #7cecf4
+series 9.8	1558.6	2230.2	2691.9	3061.2	3336.9	3607.2	3817.8	4019.0	4185.5	4349.4	4477.7	4615.9	4735.8	4850.7	4965.2	5062.9	5156.7	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+>> TB-3
+color #5da09e
+series 10.0	1563.7	2254.9	2715.9	3084.1	3384.3	3642.1	3878.6	4060.4	4242.6	4397.0	4543.8	4677.1	4816.3	4915.9	5035.7	5138.2	5247.4	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+>> TB-2
+color #f49ac2
+series 10.0	1543.1	2213.2	2667.9	3020.7	3322.8	3579.9	3789.7	3984.7	4161.9	4315.2	4454.5	4606.1	4711.6	4834.8	4935.8	5037.0	5140.5	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+>> CK-1
+color #ff0000
+series 9.8	1698.7	2403.7	2903.2	3256.5	3583.2	3834.4	4057.3	4281.6	4442.1	4597.1	4719.1	4859.5	4977.8	5096.5	5198.1	5293.9	5380.0	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+>> CK-3
+color #f27304
+series 9.9	1610.1	2265.4	2710.7	3033.6	3308.0	3529.5	3730.0	3890.3	4041.0	4165.7	4275.2	4381.2	4494.6	4585.5	4658.2	4740.0	4811.4	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+>> CK-2
+color #0000ff
+series 9.9	1816.4	2614.6	3144.0	3547.2	3900.8	4189.7	4404.4	4611.9	4809.0	4990.8	5134.3	5274.9	5412.0	5517.0	5642.1	5740.3	5837.1	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+>> TA-2
+color #91278d
+series 10.0	1486.4	2133.0	2553.7	2898.5	3156.2	3390.0	3612.7	3780.1	3959.7	4102.8	4238.7	4372.9	4488.9	4590.2	4693.0	4787.2	4889.8	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+>> TA-3
+color #ffff00
+series 9.9	1486.3	2137.3	2581.0	2908.9	3202.2	3434.5	3649.9	3851.0	3996.9	4137.9	4273.7	4420.6	4526.4	4641.7	4743.9	4829.7	nan	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+>> TA-1
+color #008000
+series 9.8	1430.6	2033.0	2474.2	2796.6	3068.4	3303.4	3488.8	3675.7	3840.0	3983.1	4125.6	4240.8	4360.0	4464.1	4562.5	4661.0	4742.6	
+error nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	

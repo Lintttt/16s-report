@@ -1,0 +1,5 @@
+RewriteEngine on 
+
+RewriteCond $1 !^(index\.php|htmlwidgets-0.9|jquery-1.11.3|plotly-binding-4.7.1|plotlyjs-1.29.2|typedarray-0.1|robots\.txt) 
+
+RewriteRule ^(.*)$ /16s-report/index.php/$1 [L]

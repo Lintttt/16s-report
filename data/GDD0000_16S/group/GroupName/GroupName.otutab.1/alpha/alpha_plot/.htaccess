@@ -1,0 +1,5 @@
+RewriteEngine on 
+
+RewriteCond $1 !^(index\.php|html_plots|robots\.txt) 
+
+RewriteRule ^(.*)$ /16s-report/index.php/$1 [L]
